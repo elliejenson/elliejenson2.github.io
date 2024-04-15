@@ -1,0 +1,15 @@
+body {background-color: rgb(184, 193, 200);
+margin-left: 300px;
+margin-right: 300px;}
+header{margin: 20px;
+font-family: inherit;}
+h1{text-align: center;
+font-family: inherit;
+font-style: inherit;
+font-size: 50;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
